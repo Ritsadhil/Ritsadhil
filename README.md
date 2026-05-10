@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://images.steamusercontent.com/ugc/18214210613811519800/F86EC2C0DF54F538863E21F70B6C45F878672C96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img height="150" src="https://media.tenor.com/VmXeTVYDST0AAAAM/manhattan-cafe.gif"  />
 </div>
 
 <h3 align="left">Connect with me:</h3>
