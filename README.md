@@ -1,8 +1,4 @@
-# Hi 👋, I'm RIts
 
-### idk
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ritsadhil&label=Profile views&color=0e75b6&style=flat" alt="Ritsadhil" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <table>
