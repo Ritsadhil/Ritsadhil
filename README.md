@@ -8,6 +8,7 @@
   <tr>
 <td><a href="https://web.facebook.com/profile.php?id=100040282362757" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Harits Fadhil" height="30" width="40" /></a></td>
 <td><a href="https://www.instagram.com/harits_f_k/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harits_f_k" height="30" width="40" /></a></td>
+    <td><a href="https://discord.com/users/719179308438126646" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r" height="30" width="40" /></a></td>
   </tr>
 <table>
 </div>
